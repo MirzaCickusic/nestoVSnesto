@@ -4,7 +4,7 @@ CHECK OUT THE LIVE SITE: https://nestovsnesto.space/
 
 I come from Bosnia and Herzegovina so I used our native lenguage to build this site. 
 
-It is a simple web site builded upon [Svelte](https://svelte.dev/) framework and I used Firebase for hosting the site and storing data..
+It is a web site builded upon [Svelte](https://svelte.dev/) framework and I used Firebase for hosting the site and storing data..
 
 ## Get started
 

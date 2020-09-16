@@ -1,4 +1,4 @@
-# app for creating and voting on polles 
+# app for creating and voting on polls 
 
 CHECK OUT THE LIVE SITE: https://nestovsnesto.space/
 

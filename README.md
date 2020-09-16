@@ -1,4 +1,4 @@
-# small svelte app for creating and voting on polles 
+# app for creating and voting on polles 
 
 CHECK OUT THE LIVE SITE: https://nestovsnesto.space/
 

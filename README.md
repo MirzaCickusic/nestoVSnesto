@@ -1,6 +1,6 @@
 # app for creating and voting on polls 
 
-CHECK OUT THE LIVE SITE: https://nestovsnesto.space/
+CHECK OUT THE LIVE SITE: https://nestovsnesto.web.app/
 
 I come from Bosnia and Herzegovina so I used our native lenguage to build this site. 
 

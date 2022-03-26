@@ -2,7 +2,6 @@
     import Card from "../shared/Card.svelte";
     import {createEventDispatcher} from "svelte"
     import PollStore from "../stores/PoolStore";
-    import Button from "../shared/Button.svelte";
     import {tweened} from "svelte/motion";
     import firebase from 'firebase/app';
     import {db} from "../firebase";
@@ -88,9 +87,9 @@
             <div class="percentage percentage-b" style="width: {$tweenedB}%;"></div>
             <span>{poll.answerB} ({poll.votesB})</span>
         </div>
-<!--        <div class="delete">-->
-<!--            <Button flat={true} on:click={()=>handleDelete(poll.id)}>Izbriši</Button>-->
-<!--        </div>-->
+        <!--        <div class="delete">-->
+        <!--            <Button flat={true} on:click={()=>handleDelete(poll.id)}>Izbriši</Button>-->
+        <!--        </div>-->
     </div>
 </Card>
 
